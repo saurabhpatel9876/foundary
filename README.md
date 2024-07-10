@@ -64,3 +64,6 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+My notes!!
+fileName.s.sol--> ".s" is foundary conventional to write solidity file
